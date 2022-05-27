@@ -36,3 +36,8 @@ body {
 .clock .number9 { --rotation: 270deg; }
 .clock .number10 { --rotation: 300deg; }
 .clock .number11 { --rotation: 330deg; }
+
+.clock .hand {
+  position: absolute;
+  
+}
